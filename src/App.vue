@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    <h1 style="text-align:center;">Odontograma</h1>
     <Odontograma />
   </div>
 </template>
